@@ -7,3 +7,6 @@ function palindram(value){
     return true
 }
 console.log(palindram("malayalam"));
+let st="sunil"
+var rev=st.split("").reverse().join("")
+console.log(rev);
